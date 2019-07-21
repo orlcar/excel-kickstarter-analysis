@@ -31,7 +31,7 @@ This dataset mainly has data from Kickstarter campaigns created in the United St
 population.  In addition, although the creation dates for Kickstarter campaigns range from 2009 to 2017, most of the Kickstarter campaigns in this dataset were 
 created in 2015 (30%) and 2016 (23%).  Because of this, the dataset is not representative of the entire history of Kickstarter.
 
-### Potential Tables/Graphs for Creation
+### Additional Potential Tables/Graphs for Data Visualization
 
 Stacked column pivot graphs can be created to compare spotlight and staff pick with the count of Kickstarter campaign states. These graphs may reveal trends 
 between spotlight or staff pick and the success rate of Kickstarter campaigns.  Another way to visualize the data is to create a table that contains the Kickstarter campaign duration using 
